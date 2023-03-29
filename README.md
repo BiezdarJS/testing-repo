@@ -2,3 +2,5 @@
 
 
 Testowy tekst do ćwiczenia commitów.
+
+Drugi tekst commitu.
